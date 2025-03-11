@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-# 🔭 Just got started with GitHub to improve code-wizard skills. 
-# 🌱 I’m currently starting my new job at a cool start-up!
+## 🔭 Just got started with GitHub to improve code-wizard skills. 
+## 🌱 I’m currently starting my new job at a cool start-up!
 
 
 
