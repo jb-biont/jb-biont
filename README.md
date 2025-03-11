@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# 🔭 Just got started with GitHub to improve code-wizard skills. 
+# 🌱 I’m currently starting my new job at a cool start-up!
+
+
+
 <!--
 **jb-biont/jb-biont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
